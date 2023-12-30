@@ -5,6 +5,13 @@ PortScanner is a port scanner (for all platforms) based on java. It was made by 
 ## Usage
 
 ```Java
-Enter Ip Address:
-
+Enter IP Address: 127.0.0.1
+Enter Port(1-1000)
+Port Start: 10
+port End: 80
 ```
+> [!NOTE]
+> It is everyone's own responsibility to use this tool.
+
+> [!CAUTION]
+> Please avoid unethical behavior.
