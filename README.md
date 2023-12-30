@@ -5,5 +5,6 @@ PortScanner is a port scanner (for all platforms) based on java. It was made by 
 ## Usage
 
 ```Java
+Enter Ip Address:
 
 ```
